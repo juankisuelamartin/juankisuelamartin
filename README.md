@@ -21,7 +21,7 @@ I am a passionate and dedicated computer engineering student with experience in 
 ### 💼 Experience
 
 - **Software Development Intern at Capgemini (May 2024 - Present)**
-  - **Location**: Madrid, Spain (Hibrid)
+  - **Location**: Madrid, Spain (Hybrid)
   - **Responsibilities**:
     - Utilizing standard market technologies and a layered SOA model based on the Devonfw technology stack.
     - Implementing backend technologies like Spring Boot, JPA, Maven, and frontend technologies such as Angular, React, and Vue.js.
