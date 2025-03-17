@@ -20,7 +20,7 @@ I am a passionate and dedicated computer engineering student with experience in 
 
 ### 💼 Experience
 
-- **Software Development Intern at Capgemini (May 2024 - Present)**
+- **Software Development Intern at Capgemini (May 2024 - Nov 2024)**
   - **Location**: Madrid, Spain (Hybrid)
   - **Responsibilities**:
     - Utilizing standard market technologies and a layered SOA model based on the Devonfw technology stack.
@@ -30,7 +30,7 @@ I am a passionate and dedicated computer engineering student with experience in 
     - Employing DevOps tools and techniques for deployment automation (Docker, Kubernetes, Jenkins).
     - Implementing Scrum techniques for project progress control and monitoring.
 
-- ** Software Engineer Capgemini
+- ** Software Engineer Capgemini (Dic 2024 - Present)
 ---
 
 ### 🏆 Awards and Recognitions
