@@ -1,6 +1,6 @@
 # Juan Carlos Suela Martín 🌐
 
-## 💻 Software Development Intern at Capgemini
+## 💻 Software Engineer at Capgemini
 
 I am a passionate and dedicated computer engineering student with experience in software development, focusing on backend and frontend technologies. I am currently pursuing my degree at the Universidad de Castilla-La Mancha.
 
@@ -30,6 +30,7 @@ I am a passionate and dedicated computer engineering student with experience in 
     - Employing DevOps tools and techniques for deployment automation (Docker, Kubernetes, Jenkins).
     - Implementing Scrum techniques for project progress control and monitoring.
 
+- ** Software Engineer Capgemini
 ---
 
 ### 🏆 Awards and Recognitions
