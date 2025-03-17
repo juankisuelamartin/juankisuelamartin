@@ -30,7 +30,7 @@ I am a passionate and dedicated computer engineering student with experience in 
     - Employing DevOps tools and techniques for deployment automation (Docker, Kubernetes, Jenkins).
     - Implementing Scrum techniques for project progress control and monitoring.
 
-- ** Software Engineer Capgemini (Dic 2024 - Present)
+- **Software Engineer Capgemini (Dic 2024 - Present)
 ---
 
 ### 🏆 Awards and Recognitions
