@@ -2,7 +2,7 @@
 
 ## 💻 Software Engineer at Capgemini
 
-I am a passionate and dedicated computer engineering student with experience in software development, focusing on backend and frontend technologies. I am currently pursuing my degree at the Universidad de Castilla-La Mancha.
+I am a passionate and dedicated computer engineering student with experience in software development, focusing on backend technologies. I am currently pursuing my degree at the Universidad de Castilla-La Mancha while working remotely for an insurance company.
 
 ---
 
@@ -23,15 +23,21 @@ I am a passionate and dedicated computer engineering student with experience in 
 - **Software Development Intern at Capgemini (May 2024 - Nov 2024)**
   - **Location**: Madrid, Spain (Hybrid)
   - **Responsibilities**:
-    - Utilizing standard market technologies and a layered SOA model based on the Devonfw technology stack.
-    - Implementing backend technologies like Spring Boot, JPA, Maven, and frontend technologies such as Angular, React, and Vue.js.
-    - Developing microservices and microfrontends.
-    - Managing continuous integration/continuous deployment services and static code analysis.
-    - Employing DevOps tools and techniques for deployment automation (Docker, Kubernetes, Jenkins).
-    - Implementing Scrum techniques for project progress control and monitoring.
+    - Use of standard market technologies and a layered SOA model based on the Devonfw technology stack.
+    - Implementation with technologies such as Spring Boot, JPA, Maven in the backend and Angular/React/Vue.js in the frontend.
+    - Development based on microservices and microfrontends.
+    Continuous integration/continuous deployment services and static code analysis.
+    - Use of DevOps techniques and tools for deployment automation (Docker, Kubernetes, Jenkins).
+    - Implementation of Scrum techniques for project progress control and monitoring.
 
 - **Software Engineer Capgemini (Dic 2024 - Present)**
----
+  Backend process and functionality development for an insurance-sector company.
+  
+  - Design and development of applications based on batch processing (Spring Batch), microservices (Spring Boot), and CRUD operations for relational databases (Spring Data REST, JPA).
+  - Implementation of cloud services in Azure (Data Lake Storage, Azure SQL) and AWS (S3 Bucket).
+  - Design and specification of RESTful APIs using Swagger and OpenAPI.
+  - Development of unit and integration tests with JUnit and Mockito.
+  - Investigation and resolution of production incidents through log analysis and monitoring with Dynatrace and Elasticsearch.
 
 ### 🏆 Awards and Recognitions
 
@@ -44,18 +50,17 @@ I am a passionate and dedicated computer engineering student with experience in 
 ### 🌐 Languages
 
 - **Spanish**: Native proficiency
-- **English**: Professional working proficiency (C1-C2)
+- **English**: Professional working proficiency (C1)
 
 ---
 
 ### 🛠 Technical Skills
 
-- **Programming Languages**: Java, Python, SQL, JSON, JavaScript (partial), C++ (partial), HTML (partial)
-- **Frameworks and Technologies**: Spring Boot, JPA, Hibernate, Maven, Git
+- **Programming Languages**: Java, SQL
+- **Frameworks and Technologies**: Spring Boot, Spring Batch, JPA, Hibernate, Maven, Git
 - **DevOps Tools**: Docker, Kubernetes, Jenkins
-- **Cloud Services**: Google Cloud, Google BigQuery
 - **IDEs**: Visual Studio, Eclipse, JetBrains (PyCharm, IntelliJ IDEA...)
-- **Database Management**: MySQL Workbench, PostgreSQL
+- **Database Management**: MySQL Workbench, PostgreSQL, Dbeaver
 
 ---
 
